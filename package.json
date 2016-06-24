@@ -1,0 +1,29 @@
+{
+  "name": "deep-object",
+  "version": "1.0.0",
+  "description": "A CRUD API to manipulate objects in depth. Get, Set, Update and Delete functions available.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ayushgp/deep-object.git"
+  },
+  "keywords": [
+    "Object",
+    "access",
+    "deep",
+    "get",
+    "set",
+    "update",
+    "delete",
+    "CRUD"
+  ],
+  "author": "Ayush Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushgp/deep-object/issues"
+  },
+  "homepage": "https://github.com/ayushgp/deep-object#readme"
+}
